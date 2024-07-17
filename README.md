@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="centre">
   <a href="https://in.linkedin.com/in/abhishek-kannath-5752b8190" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
