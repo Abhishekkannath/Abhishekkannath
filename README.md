@@ -73,6 +73,8 @@
 
   <div align="center"> 
 
+  <p align="left">
+
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />](https://aws.amazon.com)
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
@@ -127,7 +129,7 @@
 
 [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />](https://www.tensorflow.org)
 
-
+</p>
 </div>
 
 
