@@ -4,7 +4,7 @@
 
 ## I'm a Automation Developer who loves Web 
 
-- 👨‍💻 I’m currently working on Automation development technologies like UiPath, AA, PA.
+- 👨‍💻 I’m working on Automation development technologies like UiPath, AA, PA.
 - 📚 I’m currently good at Frontend and Backend technologies JavaScript, React, etc 😅
 - 💪🏼 Future Goals: To dive into the deep sea of AI, ML, data science, and automation.
 - 🎱 Likes to explore new mountains of technologies.
