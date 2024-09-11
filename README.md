@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Automation Developer who loves Web 
+## I'm an Automation Developer who loves Web 
 
 - 👨‍💻 I’m working on Automation development technologies like UiPath, AA, PA.
 - 📚 I’m currently good at Frontend and Backend technologies JavaScript, React, etc 😅
