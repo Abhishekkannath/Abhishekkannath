@@ -24,7 +24,7 @@
   <a href="https://www.facebook.com/abhishek.kannath.3" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/abhi_01__01" target="blank"><img align="center"
+  <a href="https://instagram.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/abhishekabhishe8" target="blank"><img align="center"
